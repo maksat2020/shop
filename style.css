@@ -1,0 +1,28 @@
+.my-menu a {
+    display: inline-block;
+    margin: 30px;
+    padding: 20px;
+    background-color: #dddddd;
+    border-radius: 30PX;
+}
+
+.my-right a {
+    display: block;
+    margin: 10px;
+    padding: 5px;
+}
+
+div, nav, main {
+	border: 1px solid #dddddd;
+	background-color: #fff;
+}
+
+
+
+.my-footer, .my-left {
+padding: 50px;
+}
+
+body {
+	background-color: #dddddd;
+}
